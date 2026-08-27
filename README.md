@@ -19,9 +19,9 @@ The 80% containment, Day 24 API allowance, 500,000 VND CAC and 199,000 VND ARPU 
 
 | Asset | Owner | Deadline |
 | --- | --- | --- |
-| TutorAI eval results (100 sessions) | Hoàng Bảo Huy | Day 30 |
-| TutorAI risk checklist | Hoàng Bảo Huy | Day 15 |
-| Four-week, 30-student pilot report | Hoàng Bảo Huy | Day 60 |
+| TutorAI eval results (100 sessions) | Product owner | Day 30 |
+| TutorAI risk checklist | Product owner | Day 15 |
+| Four-week, 30-student pilot report | Product owner | Day 60 |
 
 ## Sources
 
